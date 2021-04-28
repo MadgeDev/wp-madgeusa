@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Madge USA</title>
-	<atom:link href="http://hungry-shirley-912994.netlify.app/feed/" rel="self" type="application/rss+xml" />
-	<link>http://hungry-shirley-912994.netlify.app/</link>
+	<atom:link href="https://wpmadgeusa.netlify.app/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wpmadgeusa.netlify.app/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 28 Apr 2021 09:54:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.7.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://hungry-shirley-912994.netlify.app/2021/04/28/hello-world/</link>
-					<comments>http://hungry-shirley-912994.netlify.app/2021/04/28/hello-world/#comments</comments>
+		<link>https://wpmadgeusa.netlify.app/2021/04/28/hello-world/</link>
+					<comments>https://wpmadgeusa.netlify.app/2021/04/28/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[madgeusa]]></dc:creator>
 		<pubDate>Wed, 28 Apr 2021 09:54:51 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://hungry-shirley-912994.netlify.app/?p=1</guid>
+		<guid isPermaLink="false">https://wpmadgeusa.netlify.app/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://hungry-shirley-912994.netlify.app/2021/04/28/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://wpmadgeusa.netlify.app/2021/04/28/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
